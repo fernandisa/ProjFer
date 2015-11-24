@@ -1,0 +1,13 @@
+SMAP
+cliente_002dcadastrar_jsp.java
+JSP
+*S JSP
+*F
++ 0 cabecalho.jsp
+cabecalho.jsp
++ 1 cliente-cadastrar.jsp
+cliente-cadastrar.jsp
+*L
+1,15:49
+1#1,23:63
+*E
